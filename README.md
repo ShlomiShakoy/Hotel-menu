@@ -36,6 +36,6 @@ The reset:
 <img width="206" alt="reset the hotel details" src="https://user-images.githubusercontent.com/103436003/230780621-e5bd1799-38d3-4185-a491-c6c80b6bf22d.PNG">
 
 
-After reset:
+After reseting:
 
 <img width="215" alt="after reset the hotel" src="https://user-images.githubusercontent.com/103436003/230780645-ce519954-8504-4ba9-857b-c8b6a8c499b2.PNG">
