@@ -16,7 +16,7 @@ The updating:
 <img width="711" alt="updating process" src="https://user-images.githubusercontent.com/103436003/230780408-f41ead00-a117-479a-b9b6-76eefaa36599.PNG">
 
 
-The result after the updating:
+The details after the updating:
 
 <img width="224" alt="the result after updating procss" src="https://user-images.githubusercontent.com/103436003/230780516-3e384d2e-581c-48f5-bec4-08c108830fa9.PNG">
 
@@ -26,7 +26,7 @@ The check out:
 <img width="495" alt="check out process" src="https://user-images.githubusercontent.com/103436003/230780553-d062f31c-1548-4844-8f66-f4b23ef89b56.PNG">
 
 
-The result after check out:
+The details after check out:
 
 <img width="207" alt="the result after check out" src="https://user-images.githubusercontent.com/103436003/230780574-5accb2ae-7fec-4ce0-9ac5-746080d93dbc.PNG">
 
